@@ -145,7 +145,7 @@ git merge 分支名
 
 bash
 
-```
+```bash
 # 查看远程仓库
 git remote -v
 
